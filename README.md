@@ -9,6 +9,7 @@ usage: python3 open2phish.py -t target.com -d attacker.com
 ```
 ## Output
 
+Output in terminal and in txt file:
 ```
 http://attacker.com
 https://attacker.com
