@@ -189,6 +189,7 @@ http://{target}%2e{dest}/
 ///\;@{dest}
 /////{dest}/
 /////{dest}
+https://{dest}/*{target}:a
 """
 
 	print(payloads)
